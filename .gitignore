@@ -1,0 +1,11 @@
+.settings/*
+.classpath
+.project
+target/*
+dependency-reduced-pom.xml
+config.json
+/target/
+/bin/
+.directory
+.gradle
+build
